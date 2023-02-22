@@ -1,5 +1,5 @@
-Eric Meyer
-Data Analytics Fundamentals Project 4
+# Eric Meyer Data Analytics Fundamentals Project 4
+
 Domain: Human Resources
 
 The goal of this project is to gain skills with:
